@@ -4,7 +4,7 @@
 Deep research, CLI orchestration, bug triage, code review and a guarded e-commerce assistant, in one notebook that runs
 free on Google Colab.
 
-[Open the notebook in Colab](https://colab.research.google.com/github/<your-username>/adk-agent-patterns/blob/main/adk_agent_patterns.ipynb)
+[Open the notebook in Colab](https://colab.research.google.com/drive/1q0j3CU3qO-ZnLwGpDXS7Ab4jvWdEyDGK?usp=sharing)
  · [Watch the demo video](<add-youtube-link>)
 
 ---
