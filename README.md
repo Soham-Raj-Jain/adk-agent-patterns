@@ -5,7 +5,7 @@ Deep research, CLI orchestration, bug triage, code review and a guarded e-commer
 free on Google Colab.
 
 [Open the notebook in Colab](https://colab.research.google.com/drive/1q0j3CU3qO-ZnLwGpDXS7Ab4jvWdEyDGK?usp=sharing)
- · [Watch the demo video](<add-youtube-link>)
+ · [Watch the demo video](https://youtu.be/sEl_ia_Z_h4)
 
 ---
 
